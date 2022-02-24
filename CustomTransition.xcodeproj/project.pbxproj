@@ -11,6 +11,8 @@
 		BEC7DCDD27C7465C00989B33 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC7DCDC27C7465C00989B33 /* ContentView.swift */; };
 		BEC7DCDF27C7465E00989B33 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BEC7DCDE27C7465E00989B33 /* Assets.xcassets */; };
 		BEC7DCE227C7465E00989B33 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BEC7DCE127C7465E00989B33 /* Preview Assets.xcassets */; };
+		BEC7DCE927C7467300989B33 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC7DCE827C7467300989B33 /* Home.swift */; };
+		BEC7DCEB27C7469C00989B33 /* CubicTransition.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC7DCEA27C7469C00989B33 /* CubicTransition.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		BEC7DCDC27C7465C00989B33 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BEC7DCDE27C7465E00989B33 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BEC7DCE127C7465E00989B33 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BEC7DCE827C7467300989B33 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		BEC7DCEA27C7469C00989B33 /* CubicTransition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CubicTransition.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				BEC7DCDC27C7465C00989B33 /* ContentView.swift */,
 				BEC7DCDE27C7465E00989B33 /* Assets.xcassets */,
 				BEC7DCE027C7465E00989B33 /* Preview Content */,
+				BEC7DCE827C7467300989B33 /* Home.swift */,
+				BEC7DCEA27C7469C00989B33 /* CubicTransition.swift */,
 			);
 			path = CustomTransition;
 			sourceTree = "<group>";
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				BEC7DCDD27C7465C00989B33 /* ContentView.swift in Sources */,
+				BEC7DCEB27C7469C00989B33 /* CubicTransition.swift in Sources */,
+				BEC7DCE927C7467300989B33 /* Home.swift in Sources */,
 				BEC7DCDB27C7465C00989B33 /* CustomTransitionApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
